@@ -23,8 +23,10 @@ This project involves working with 220V AC electricity. High voltage can be leth
 - Arduino C++ (.ino)
 
 ## Demo
+<img width="1142" height="733" alt="dimmer 3" src="https://github.com/user-attachments/assets/4665d50e-d85b-4482-ac0c-24fc44198d44" />
+
 https://github.com/user-attachments/assets/a813cbc4-9e00-4193-a975-8fb512723deb
 
 <img width="6000" height="6029" alt="dimmer 2" src="https://github.com/user-attachments/assets/6f24f83a-bb7f-4b9a-a476-788f789ddcbe" />
 
-<img width="1142" height="733" alt="dimmer 3" src="https://github.com/user-attachments/assets/4665d50e-d85b-4482-ac0c-24fc44198d44" />
+
